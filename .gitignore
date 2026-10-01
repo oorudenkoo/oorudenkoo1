@@ -1,0 +1,5 @@
+qa/MD-20489/screens/
+qa/MD-20489/logs/
+qa/MD-20489/.tmp/
+qa/MD-20489/expected.csv
+qa/MD-20489/events.json
